@@ -1,0 +1,757 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A net for the fishers of men and the same which Christ gave to His Apostles Wherein the points controverted betwixt Catholiques and sectaries, are briefly vindicated, by way of dilemma. By two gentlemen late converts.</title>
+            <author>J. C., late convert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 56 KB of XML-encoded text transcribed from 66 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46775</idno>
+            <idno type="STC">Wing J5B</idno>
+            <idno type="STC">ESTC R221649</idno>
+            <idno type="EEBO-CITATION">99832936</idno>
+            <idno type="PROQUEST">99832936</idno>
+            <idno type="VID">37411</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46775)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37411)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2188:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A net for the fishers of men and the same which Christ gave to His Apostles Wherein the points controverted betwixt Catholiques and sectaries, are briefly vindicated, by way of dilemma. By two gentlemen late converts.</title>
+                  <author>J. C., late convert.</author>
+                  <author>J. M'C, late convert. aut</author>
+               </titleStmt>
+               <extent>[18], 109, 111-113 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed anno, 1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication, to Mary 'Queen of Great Britan', i.e. Mary of Modena, signed: J.C. J.M'C.</note>
+                  <note>Copy has print show-through; lacks leaves at end?</note>
+                  <note>Reproduction of the original in the Lambeth Palace Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37411:1"/>
+            <p>A NET FOR THE Fiſhers of MEN And the ſame which <hi>Chriſt</hi> gave to his Apo<g ref="char:EOLhyphen"/>ſtles.</p>
+            <p>
+               <hi>Wherein the Points contra<g ref="char:EOLhyphen"/>verted betwixt Catho<g ref="char:EOLhyphen"/>liques and Sectaries, are briefly vindicated by way of</hi> Dilemma.</p>
+            <p>By two Gentlemen Late CONVERTS.</p>
+            <q>
+               <bibl>
+                  <hi>Mark. 1.17.</hi>
+               </bibl>
+               <p>And Jeſus ſaid unto them, come ye after me, and I will make ye to become Fiſhers of Men.</p>
+            </q>
+            <p>Printed <hi>Anno,</hi> 1686.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:37411:2"/>
+            <pb facs="tcp:37411:2"/>
+            <head>To Her Moſt Excel<g ref="char:EOLhyphen"/>lent Majeſty, <hi>Mary,</hi> Queen of Great <hi>Britan.</hi>
+            </head>
+            <opener>
+               <salute>May it pleaſe your Sa<g ref="char:EOLhyphen"/>cred Majeſty;</salute>
+            </opener>
+            <p>WHat in this little Book is contain<g ref="char:EOLhyphen"/>ed, being the Motives of of our Converſions to the amient <hi>Apoſtolical, Catholique, Roman,</hi>
+               <pb facs="tcp:37411:3"/>Church; we have made bold to Didicate it to Your Serene <hi>Majeſty,</hi> and alſo our Harts Blood and Life, to the Service of your Royal Spouſe Great <hi>James</hi> the Se<g ref="char:EOLhyphen"/>cond.</p>
+            <p>We humbly beg Par<g ref="char:EOLhyphen"/>don for preſuming to put the Products of ſo weak Brains under ſo Prince<g ref="char:EOLhyphen"/>ly and Gracious a Pa<g ref="char:EOLhyphen"/>tronage; acknowledging a Matter of ſo great
+<pb facs="tcp:37411:3"/>Moment, not only far above our unlearned Ca<g ref="char:EOLhyphen"/>pacities, but that rather it required the Learning of <hi>St. Hierome,</hi> the E<g ref="char:EOLhyphen"/>loquence of St. <hi>Chriſoſ<g ref="char:EOLhyphen"/>tome,</hi> the Quick Witt of St. <hi>Auguſtine,</hi> the Sobriety of St. <hi>Ambroſe,</hi> and ſweet Stile of St. <hi>Barnard.</hi>
+            </p>
+            <p>But <hi>Madam,</hi> if fa<g ref="char:EOLhyphen"/>vourably received by your Great <hi>Majeſty,</hi> our Adverſaries who
+<pb facs="tcp:37411:4"/>will undergo to anſwer it, ſhall find that Chil<g ref="char:EOLhyphen"/>dren ſet upon the ſhoul<g ref="char:EOLhyphen"/>ders of ſo High Giants, as the forementioned Pi<g ref="char:EOLhyphen"/>ous Fathers were; ſhall ſee farther into Heaven<g ref="char:EOLhyphen"/>ly Religion, than he that proudly will not follow Scripture Councils, nor Fathers, but his own human Inventions, and private Spirits, after the creuel Example of the Tyrant <hi>Proclus,</hi>
+               <pb facs="tcp:37411:4"/>who made Men of all Proportions, fit the length of his Bed, by cutting off him what was too long, or by draw<g ref="char:EOLhyphen"/>ing him longer who was too ſhort.</p>
+            <p>Moſt <hi>Sacred Ma<g ref="char:EOLhyphen"/>dam,</hi> what is promiſed, if received into Your <hi>Majeſties</hi> Protection, which we moſt humbly beg, may be the eaſier performed, becauſe the chaſt Spouſe of the moſt
+<pb facs="tcp:37411:5"/>High; wanteth not a thouſand Bucklers of Defence: Again humb<g ref="char:EOLhyphen"/>ly beging Pardon for this Ambition, of a<g ref="char:EOLhyphen"/>vowing our ſelves, Your Majeſties.</p>
+            <closer>
+               <signed>
+                  <hi>Moſt Humble, Moſt O<g ref="char:EOLhyphen"/>bedient, and Moſt Loyal Subjects.</hi>
+                  <list>
+                     <item>C. J.</item>
+                     <item>J. M'C.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:37411:5"/>
+            <head>TO THE READER.</head>
+            <p>SAcred Writ in<g ref="char:EOLhyphen"/>forms us that in the primitive Times, our Bleſſed Saviour begining to lay the Foundation of his holy Church; called Fiſhermen to the A<g ref="char:EOLhyphen"/>poſtleſhip,
+<pb facs="tcp:37411:6"/>and to thoſe he gave a Net which was the Wiſ<g ref="char:EOLhyphen"/>dom and Knowledg of the Eternal Father, ſuitable for taking ſuch Fiſh, as ſwim in the Ocean of Apoſta<g ref="char:EOLhyphen"/>cy, Hereſy and Sch<g ref="char:EOLhyphen"/>iſme: The Apoſtles after Experiencing the great good that did <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>own'd to the World, by the ſpeci<g ref="char:EOLhyphen"/>al benefit of this Net;
+<pb facs="tcp:37411:6"/>and the many Souls that were caught therein, would not prejudice the Church, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> robbing her of ſo <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>agnificent a Gift; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut bury'd the ſame in the Bowels of holy Scripture; where we illuminated by the Father of Light, find<g ref="char:EOLhyphen"/>ing ſo precious a Trea<g ref="char:EOLhyphen"/>ſure, though <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it to preſent it unto you Curteous Reader, as
+<pb facs="tcp:37411:7"/>a pledg of our affecti<g ref="char:EOLhyphen"/>onate Reſpects; it be<g ref="char:EOLhyphen"/>ing the only Motive of our Converſions, hoping if peruſed with no more Paſſion, pre<g ref="char:EOLhyphen"/>judice, or Intereſt, then we did, who had as great Averſion a<g ref="char:EOLhyphen"/>gainſt the Catholique Church, as you, or any other can have, that it may produce the ſame effects in
+<pb facs="tcp:37411:7"/>your heart, that it hath in ours.</p>
+            <p>If you acknowledg to be convinced in all Points, ſaving theſe which we omitted for brevitys ſake, <hi>Viz.</hi> the unbloody Sacra<g ref="char:EOLhyphen"/>fice of the <hi>Maſs,</hi> Com<g ref="char:EOLhyphen"/>munion under one kind, the Works of Supererogation <hi>&amp;c.</hi> We hope to go Victo<g ref="char:EOLhyphen"/>rious out of the Field.</p>
+            <p>But if any will un<g ref="char:EOLhyphen"/>dertake
+<pb facs="tcp:37411:8"/>to anſwer this little Treatiſe? he ſhall not be the In<g ref="char:EOLhyphen"/>ſtrument only of our Recantation, but o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> many more.</p>
+            <p>We with all Chriſtian ſincerity, deſire that if you can reſolve the following Queries for to annex your Anſwer thereunto; if not, we Pray the devine Majeſty; of his infi<g ref="char:EOLhyphen"/>nite Mercy, to ilumi<g ref="char:EOLhyphen"/>nate
+<pb facs="tcp:37411:8"/>you with the Beams of his holy and ſaving Grace, which ſhall ever be the Pray<g ref="char:EOLhyphen"/>ers of your well Wiſhers in Chriſt.</p>
+            <closer>
+               <salute>Farewel.</salute>
+               <signed>
+                  <list>
+                     <item>C. I.</item>
+                     <item>J. M'C.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb facs="tcp:37411:9"/>
+            <pb facs="tcp:37411:9"/>
+            <head>TO The Holy Wiſdom of of the Glorious Tri<g ref="char:EOLhyphen"/>nity.</head>
+            <p>BLeſſed Everliving Wiſdom: Ex<g ref="char:EOLhyphen"/>ellent and Supream In<g ref="char:EOLhyphen"/>telligence; behold us proſtrate before the Ma<g ref="char:EOLhyphen"/>jeſty of your Great and Divine Light, to offer
+<pb facs="tcp:37411:10"/>up the Hommage of our Perſons and Book; humbly acknowledging the Nothing, both of the one and the other; and with all the Powers of our Souls, proteſting to have neither Spirit nor Pen, which is not of Yon, and from You, who are the Scource of all good Thoughts, and Ac<g ref="char:EOLhyphen"/>compliſhment of all Ho<g ref="char:EOLhyphen"/>nourable and Praiſe<g ref="char:EOLhyphen"/>worthy Diſcourſes.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:37411:10"/>
+            <head>A NET <hi>For the</hi> FISHERS <hi>of</hi> MEN.</head>
+            <p>
+               <hi>Firſt.</hi> GOD hath a true Church, in the World, or not? if not, then Chriſt left Man without a Medium to Salvation? if he hath, yours is that true Church, or not? if not, than yours is not the true Chriſtian Church; if it be? than your Church
+<pb n="2" facs="tcp:37411:11"/>muſt have theſe follow<g ref="char:EOLhyphen"/>ing marks, <hi>viz.</hi> Viſibi<g ref="char:EOLhyphen"/>lity, Unity, Univerſality, and Sanctity; which the Scriptures teacheth to be the Signes of Chriſt'<hi>s</hi> Im<g ref="char:EOLhyphen"/>maculate Spouſe.</p>
+            <div type="part">
+               <head>
+                  <hi>VISIBILITY</hi> Demonſtrated to be a Mark of the true Church.</head>
+               <p n="2">2. THe Houſe of our Lord ſhall be prepared on the top of Mountains, or not? if it be, why then do you deny that the Church may be
+<pb n="3" facs="tcp:37411:11"/>always viſible, if not? why do you deny that of <hi>Iſa.</hi> 2.2. <hi>The Mountain of the houſe of our Lord ſhall be prepared on the top of Mountains.</hi>
+               </p>
+               <p n="3">3. A City ſeated on a Hill can be hid, or not? if it can, why do you de<g ref="char:EOLhyphen"/>ny that of St. <hi>Mat.</hi> 5 14. <hi>A City ſeated upon a Hill cannot be hid,</hi> if not? than the Church cannot be inviſible.</p>
+               <p n="4">4. Chriſt founded a Church on Earth that all Nations may be edi<g ref="char:EOLhyphen"/>fied therein, or not? if
+<pb n="4" facs="tcp:37411:12"/>not, why do you deny that of <hi>Iſa.</hi> 2.2. <hi>All Na<g ref="char:EOLhyphen"/>tions ſhall flow unto her,</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> again, <hi>Pſal.</hi> 85.9. <hi>All Nations whatſoever thou haſt made, ſhall com<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and adore before thee.</hi> if he did, why then do you ſay the Church may be in<g ref="char:EOLhyphen"/>viſible? ſince all Nations cannot be edified in a Church unſeen.</p>
+               <p n="5">5. A Man for not hearing the Church is tearmed in Scripture a Heathen, and Publican, or not? if not, why the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> do you deny the wor<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of St. <hi>Mt.</hi> 18.18. <hi>He th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <pb n="5" facs="tcp:37411:12"/>will not hear thee Church, let him be to the as an Hea<g ref="char:EOLhyphen"/>then and Publican.</hi> if he be, how than ſhall a Man be termed an Hea<g ref="char:EOLhyphen"/>then for not hearing a Church that was not vi<g ref="char:EOLhyphen"/>ſible or yet extant in the World.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>UNITY</hi> Demonſtrated to be a mark of the True Church.</head>
+               <p n="6">6. A Natural Unity and conection or the parts among them<g ref="char:EOLhyphen"/>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lves and to the head, is
+<pb n="6" facs="tcp:37411:13"/>neceſſary for the conſer<g ref="char:EOLhyphen"/>vation of the natural bo<g ref="char:EOLhyphen"/>dy or not? if not, how can a natural body ſub<g ref="char:EOLhyphen"/>ſiſt, if the parts be devid<g ref="char:EOLhyphen"/>ed and torn from one a<g ref="char:EOLhyphen"/>nother from the head? If it be, why is that natu<g ref="char:EOLhyphen"/>ral conection proper to a natural body; and not a ſpiritual conection pro<g ref="char:EOLhyphen"/>per to a ſpritual body.</p>
+               <p n="7">7. Chriſt promiſed that there ſhould be uni<g ref="char:EOLhyphen"/>ty in his Church, or not? if not, why do you deny that of St. <hi>John</hi> 10.16. <hi>there ſhall be made one fol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> and one Paſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g>
+                  </hi> if he did<g ref="char:punc">▪</g>
+                  <pb n="7" facs="tcp:37411:13"/>why do you deny unity.</p>
+               <p n="8">8. Unity is requiſite in Gods Church or not? if not, why do you deny that of St. <hi>John</hi> 17.11. <hi>Chriſt prayed that his Diſ<g ref="char:EOLhyphen"/>ciples ſhould be one, and a<g ref="char:EOLhyphen"/>gaine</hi> 1. Cor. 1.10. <hi>I be<g ref="char:EOLhyphen"/>ſeech you that you all ſpeak one and the ſame thing, and that there be no Schiſms among you; but that you be perfect in one ſence and in one Judgment,</hi> if ſhe be why do you deny the neceſſity of unity.</p>
+               <p n="9">9. Chriſt when he prayed, his prayer took
+<pb n="8" facs="tcp:37411:14"/>efect or not? if not, then he in vain prayed that his Diſciples ſhould be one, if it did then Chriſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> people is one.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>UNIVERSALITY</hi> Demonſtrated to be a mark of the True Church.</head>
+               <p n="10">10. TO be Univer<g ref="char:EOLhyphen"/>ſal or Coex<g ref="char:EOLhyphen"/>iſtant with time and place, is a mark of the true Church or not? <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> if not, why doth the Scriptures ſay in St. Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 28.20. <hi>go ye teaching all
+<pb n="9" facs="tcp:37411:14"/>Natons, &amp;c. and behould I am with you even to the Conſumation of the World,</hi> and again Eph. 4.12 13 <hi>He gave ſome Apoſtles, &amp;c. to the Conſumation of the Sts.</hi> if it be, why do you reject ſo evedent a mark of the true Church?</p>
+               <p n="11">11. The Church of God is Univerſal or Co<g ref="char:EOLhyphen"/>exiſtant with all time or not? if not, why do you deny that of St. John 14.15.16. <hi>the Paracleet ſhall abide with you for ever,</hi> and again that of St. <hi>Lu.</hi> 1.33. <hi>he (Chriſt) ſhall raign in the houſe of</hi> Jacob
+<pb n="10" facs="tcp:37411:15"/>
+                  <hi>for ever, and of his King<g ref="char:EOLhyphen"/>dom there ſhall be no end;</hi> if it be, why do you de<g ref="char:EOLhyphen"/>ny Univerſality?</p>
+               <p n="12">12. Chriſts Church is Univerſal or Coexiſtant with all place, or not? if not, how can that of the prophet be true, <hi>their ſound went over all the Earth,</hi> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> how can all Nations be taught; if it be, why do you deny Univerſali<g ref="char:EOLhyphen"/>ty.</p>
+               <p n="13">13. The Church of Chriſt is Univerſal and Catholick or not? if not, why do you deny the A<g ref="char:EOLhyphen"/>poſtles
+<pb n="11" facs="tcp:37411:15"/>Creed, if it be, why do you renounce U<g ref="char:EOLhyphen"/>niverſality?</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>SANCTITY</hi> Demonſtrated to be a mark of the true Church.</head>
+               <p n="14">14. THe Church of Chriſt is emi<g ref="char:EOLhyphen"/>nent for Sanctity of diſ<g ref="char:EOLhyphen"/>cipline and doctrine, or not? if not, why do you deny the Apoſtles Creed, which ſays, I beleive in the Holy Catholick Church, and again that of the <hi>Ephe.</hi> 5.17. <hi>Chriſt
+<pb n="12" facs="tcp:37411:16"/>gave himſelf for his Church, cleanſing her by the laver of water in the Word, that he might preſent her to him<g ref="char:EOLhyphen"/>ſelf a Glorious Church not having ſpot nor wrinkle;</hi> but that ſhe might be Holy and unſpoted; if ſhe be, why do you deny Sanctity in the Church?</p>
+               <p n="15">15. The Church of Chriſt is Sanctifyed or not? if not, why do you contradict St. Pauls words ſaying 1. Cor. 6.10. <hi>theſe things ye were, but ye are waſhed, but ye are Sanctifyed, but ye are Juſtifyed in the
+<pb n="13" facs="tcp:37411:16"/>name of our Lord Jeſus Chriſt and in the Spirit of our God;</hi> if ſhe be, why do you deny Sanctity in the Church?</p>
+               <p n="16">16. The Church of Chriſt is manifeſted to be Holy by the Grace of Miracle or not? if not, why did Chriſt ſay in St. <hi>Jo.</hi> 14.10. <hi>he that Belei<g ref="char:EOLhyphen"/>veth in me, the works that I do he ſhall do, and great<g ref="char:EOLhyphen"/>er,</hi> if it be, why do you Sacriligiouſly rob the Church of Sanctity, ſee<g ref="char:EOLhyphen"/>ing Chriſt granted her the Grace of Miracle which we prove thus.</p>
+               <pb n="14" facs="tcp:37411:17"/>
+               <p n="17">17. Chriſt granted true beleivers the grace of caſting out Devils, and by the impoſition of hands to cure the ſuck, or not? if not, why do you belye the Scrip<g ref="char:EOLhyphen"/>tures. <hi>Mark.</hi> 16.17. <hi>Thoſe that beleive in me, theſe Signes ſhall follow them, in my Name they ſhall caſt out Devils, they ſhall lay hands on the Sick and they ſhall be whole.</hi> If he did, you can<g ref="char:EOLhyphen"/>not deny the grace of Miracles in the Church.</p>
+               <p n="18">18. Your Church hath the above mentioned Marks; or not? if not, than ſhe is falſ, if ſhe
+<pb n="15" facs="tcp:37411:17"/>hath, anſwer to the fol<g ref="char:EOLhyphen"/>lowing Queries.</p>
+               <p n="19">19. Your Church hath been apparent and viſi<g ref="char:EOLhyphen"/>ble ſince Chriſt, or not? if not, then ſhe is falſe; if ſhe has, prove your lawful and uninterrupt<g ref="char:EOLhyphen"/>ed Succeſſion of Paſtors, from the time of the A<g ref="char:EOLhyphen"/>poſtles, till <hi>Mart. Luther,</hi> and <hi>Jo. Calvin.</hi>
+               </p>
+               <p n="20">20. Your Church did appear before <hi>Luther</hi> and <hi>Calvin,</hi> or not? if not, then ſhe is falſe; if ſhe did, in what Kingdom or Nation was your Doc<g ref="char:EOLhyphen"/>trine
+<pb n="16" facs="tcp:37411:18"/>preached, or by whom.</p>
+               <p n="21">21. <hi>Martin Luther,</hi> and <hi>Jo. Calvin</hi> was the firſt founders of your Church, or not? if not, produce any that ever profeſſed the ſame Articles with you before them; if they were, then your Church is falſe.</p>
+               <p n="22">22. <hi>Luther</hi> and <hi>Calvin</hi> ſeperated themſelves from the world, or not? if not, who joyned with them, or to whom did they adhere; if they did, then they departed from
+<pb n="17" facs="tcp:37411:18"/>the viſible Chriſtian Re<g ref="char:EOLhyphen"/>ligion.</p>
+               <p n="23">23. Your Church hath Unity, or not? if not, then ſhe is not the Church of Chriſt? if ſhe hath, why is there ſo ma<g ref="char:EOLhyphen"/>ny Schiſms and Sects a<g ref="char:EOLhyphen"/>mong you.</p>
+               <p n="24">24. All your Reform<g ref="char:EOLhyphen"/>ers did agree in matters of Faith, or not? if not, then your pretended Re<g ref="char:EOLhyphen"/>formation had no Uni<g ref="char:EOLhyphen"/>ty; if they did, why did they ſo much differ in moſt eſſential Points, as we prove thus?</p>
+               <pb n="18" facs="tcp:37411:19"/>
+               <p n="25">25. <hi>Luther</hi> an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Cal<g ref="char:EOLhyphen"/>vin</hi> were true Ref<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ers, or not? if not the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> you follow falſe Ref<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ers; if they were, why <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> they differ in the moſt <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ntial Point of the hol<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>cra<g ref="char:EOLhyphen"/>ment? and agai<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Government <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Church.</p>
+               <p n="26">26. All your Refor<g ref="char:EOLhyphen"/>mations doth agree, of not? if not, then they are falſe, and void of the eſſential Point of U<g ref="char:EOLhyphen"/>nity; if they do, pro<g ref="char:EOLhyphen"/>duce any two that agree in all points.</p>
+               <pb n="19" facs="tcp:37411:19"/>
+               <p n="27">27. Your Church is univerſal, or not? if not, the <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>he is not the Ca<g ref="char:EOLhyphen"/>tho<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e Church; if ſhe be, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hew one of your Prea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ers in <hi>Japonia</hi> nay or i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Kingdom of <hi>Spa<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi>
+               </p>
+               <p n="28">28. Your Church hath converted Nations, or not? if not, how can ſhe be univerſal; if ſhe hath, ſhew one Nation that ſhe hath ever converted.</p>
+               <p n="29">29. Your Church hath been univerſal with all time, or not? if not,
+<pb n="20" facs="tcp:37411:20"/>then ſhe cannot be the true Churh, if ſhe hath, with what time hath ſhe been coexiſtant before <hi>Luther</hi> and <hi>Calvin.</hi>
+               </p>
+               <p n="30">30. Your Church hath been Univerſal in place or not? if not, then ſhe is not the true Church; if ſhe hath, in what place or nation did ſhe appear before <hi>Luther</hi> and <hi>Calvin.</hi>
+               </p>
+               <p n="31">31. Your Church hath Sanctity or not? if not, then ſhe is not the holy Catholique Church; if ſhe hath, ſhew one of
+<pb n="21" facs="tcp:37411:20"/>your Sect that ever was Canoniz'd.</p>
+               <p n="32">32. <hi>Luther Calvin</hi> and the reſt of your Refor<g ref="char:EOLhyphen"/>mers confirmed their Doctrine with Miracle or not? if not, then they were not true Apoſtles? if they did ſhew one of their Meracles.</p>
+               <p n="33">33. The ſigns which Chriſt ſaid in Scripture, followed your pretended Reformers, or not? if not, then they were not true Beleivers; if they did, ſhew one Man they diſpoſſeſed, or one ſick
+<pb n="22" facs="tcp:37411:21"/>that they reſtored to health.</p>
+               <p n="34">34. Your Reformers were famous for their virtuous Lives, or not? if not, then they had not Sanctity; if they were, why did they break their Vows made to God, and teach men ſo to do.</p>
+               <p n="35">35. The Catholique Roman Church, and no other ſtands firm, and infalliable as a Rock a<g ref="char:EOLhyphen"/>gainſt all the tempeſts of Apoſtacy, Hereſy and Schiſm, which we prove thus.</p>
+               <pb n="23" facs="tcp:37411:21"/>
+               <p n="36">36. The <hi>Romans</hi> had once the true Church, or not? if not, then you de<g ref="char:EOLhyphen"/>ny the words of Scrip<g ref="char:EOLhyphen"/>ture; <hi>Rom.</hi> 1.8. <hi>Firſt I thank my Lord through Je<g ref="char:EOLhyphen"/>ſus Chriſt, that your Faith is ſpoken of throughout the whole World:</hi> and again ver. 7. <hi>To all that be in Rome beloved of God cal<g ref="char:EOLhyphen"/>led to be Saints, grace to you and Peace.</hi> &amp;c, if they had, they retain the ſame Faith ſtill infalliably, or not? if they do, then we agree; if not, then they muſt have their fall, ei<g ref="char:EOLhyphen"/>ther by Apoſtacy, Here<g ref="char:EOLhyphen"/>ſy,
+<pb n="24" facs="tcp:37411:22"/>or Schiſm. to the contrary,</p>
+               <p n="37">37. The Ancient A<g ref="char:EOLhyphen"/>poſtolick Catholique Ro<g ref="char:EOLhyphen"/>man Church fell by A<g ref="char:EOLhyphen"/>poſtacy, or not? if not, then ſhe is free from A<g ref="char:EOLhyphen"/>poſtacy; if ſhe did, what prudent Man will ſay that ſhe ever renounced the ſweet Name of <hi>Je<g ref="char:EOLhyphen"/>ſu,</hi> which ſhe ever hath in ſo great Veneration.</p>
+               <p n="38">38. The Antient Ca<g ref="char:EOLhyphen"/>tholique Roman Church fell by Hereſy, or not? if not, then ſhe is free from all Hereſy; if ſhe
+<pb n="25" facs="tcp:37411:22"/>did, by what general Council was ſhe ever condemned, which of the Fathers ever wrote a<g ref="char:EOLhyphen"/>gainſt her, or by what Authority was ſhe o<g ref="char:EOLhyphen"/>therwiſe reproved?</p>
+               <p n="39">39. The Antient Ca<g ref="char:EOLhyphen"/>tholique Roman Church fell by Schiſm and by de<g ref="char:EOLhyphen"/>viding her ſelf from ſome other Church, or not? if not then ſhe is not guilty of Schiſm; if ſhe did whoſe company did ſhe leave, from what body did ſhe go forth, where was the true Church ſhe forſook.</p>
+               <pb n="26" facs="tcp:37411:23"/>
+               <p n="40">40. The true holy A<g ref="char:EOLhyphen"/>poſtolique Catholique Church, is Falible and can er or not? if not, why do you falſly condemn her? if ſhe be, how can that of Scripture be true 1. <hi>Tim.</hi> 3.15. <hi>the Houſe of God, which is the Church of the living God, is the pillar and firmament of truth.</hi>
+               </p>
+               <p n="41">41. The Church of God is Infalible in all her propoſals and defini<g ref="char:EOLhyphen"/>tions of Faith, or not? if not, why ſhould a Man be eſteemed a heathen and a publican for not
+<pb n="27" facs="tcp:37411:23"/>hering afalſ and eronious Church <hi>Mat.</hi> 11.18. if ſhe be, why do you de<g ref="char:EOLhyphen"/>ny Infalibiltiy.</p>
+               <p n="42">42. Chriſt being the head of the Church, and the holy Goſt the ſoul of the Church, guiding and directing the Church in all truth, ſhe can er or not? if not, then ſhe is not falible, if ſhe can then Jeſus Chriſt and the holy Ghoſt is her directors into errors <hi>Jo.</hi> 16.13.</p>
+               <p n="43">43. Chriſt is a true Prophet, or not? if not,
+<pb n="28" facs="tcp:37411:24"/>then you are Blasfemers, if he be, how then can the Gates of Hell prevail againſt the Church, ſee<g ref="char:EOLhyphen"/>ing that he prophecy'd in St. <hi>Mat.</hi> 16.18. <hi>the gates of Hell ſhall not pre<g ref="char:EOLhyphen"/>vaile againſt her.</hi>
+               </p>
+               <p n="44">44. The holy Ghoſt ſuggeſteth all truth to the Church, or not? if not, why do you deny that of St. <hi>Jo.</hi> 14.16. <hi>he ſhall teach you all things, and ſuggeſt unto you all things, whatſoever I ſhall ſay unto you,</hi> if he doth then he'll ſuggeſt no er<g ref="char:EOLhyphen"/>rors, <hi>&amp;c.</hi>
+               </p>
+               <pb n="29" facs="tcp:37411:24"/>
+               <p n="45">45. Chriſt is a wiſe Man, or a fooll? if a wiſe, why did he build his houſe upon the ſand, and make it ſubject to the Infernal Tempeſts; if a fool then you are Blaſ<g ref="char:EOLhyphen"/>femers.</p>
+               <p n="46">46. A Congregation of people in diſpiſeing Chriſt, is guilty of Apoſt<g ref="char:EOLhyphen"/>acy, or not? if not, then you deny the true defi<g ref="char:EOLhyphen"/>nition of Apoſtacy; if they be, how can you clear your ſelves of Apoſt<g ref="char:EOLhyphen"/>acy in diſpiſeing his Church, ſeeing it is ſaid
+<pb n="30" facs="tcp:37411:25"/>in Scripture <hi>Luke</hi> 10.16. <hi>he that heareth you heareth me, and he that diſpiſeth you diſpiſeth me, and he that diſpiſeth me diſpiſeth him that ſent me.</hi>
+               </p>
+               <p n="47">47. Your Church is guilty of Hereſy or not<g ref="char:punc">▪</g> if ſhe be, <hi>&amp;c.</hi> if not, how doth the definition of Hereſy agree with you, in adhereing to ſo many private and ſingular O<g ref="char:EOLhyphen"/>pinions and errors of Faith, contrary to the general approved Doct<g ref="char:EOLhyphen"/>rine, of the Catholique Church.</p>
+               <pb n="31" facs="tcp:37411:25"/>
+               <p n="48">48. Your Church is guilty of Schiſm, or not? if ſhe be, <hi>&amp;c.</hi> if not, how then doth the definition of Schiſm agree with you, in dividing your ſelves from the body of Faithful Chriſtians and in breaking comunion with the Antient Apoſt<g ref="char:EOLhyphen"/>olique Catholique Ro<g ref="char:EOLhyphen"/>man Church,</p>
+               <p n="49">49. That Church, to which the above menti<g ref="char:EOLhyphen"/>oned marks doth agree, (to wit) Apoſtacy, He<g ref="char:EOLhyphen"/>reſy, and Schiſm, is a falſe Church, or not? if not, then you do not
+<pb n="32" facs="tcp:37411:26"/>eſteem Apoſtacy, Hereſy, and Schiſm, to be marks of a falſe Church; if they be, then your Church is falſe erronious and no Church, ſeeing they ſo aptly agree with you.</p>
+               <p n="50">50. All that which the, Antient, Holy, Catho<g ref="char:EOLhyphen"/>lique, Roman, Church, holds as articles of Faith, is Pious, Good and Law<g ref="char:EOLhyphen"/>ful, which we prove thus out of Holy Writ, and by common Sence and reaſon.</p>
+            </div>
+            <div type="part">
+               <pb n="33" facs="tcp:37411:26"/>
+               <head>The Pope<hi>'s SUPREMACY</hi> Vindicated by the moſt ſolid Texts of Scripture.</head>
+               <p n="51">51. The Foundation of the Church of God next after Chriſt, was builded on St. <hi>Peter,</hi> or not? if not, why doth the Scriptures ſay, St. <hi>Mat.</hi> 16.18. <hi>Thou art Pe<g ref="char:EOLhyphen"/>ter, and upon this Rock will I build my Church;</hi> if it was, why do you deny <hi>Peter</hi>'s Supremacy?</p>
+               <pb n="34" facs="tcp:37411:27"/>
+               <p n="52">52. Chriſt bid prefer <hi>Peter</hi> before the other A<g ref="char:EOLhyphen"/>poſtles, or not? if not, why did he ſay to <hi>Peter</hi> only, <hi>Joh.</hi> 21.16, 17, 18. <hi>Feed my Lambs, feed my Lambs, feed my Sheep?</hi> if he did, why do you deny <hi>Peter</hi>'s Supremacy.</p>
+               <p n="53">53. The Apoſtles were of like Authority, or not? if not; why do you deny <hi>Peter</hi>'s Supre<g ref="char:EOLhyphen"/>macy? if they were, why have you Primates, Arch-Biſhops, Biſhops, and no equal Authority as they had?</p>
+               <pb n="35" facs="tcp:37411:27"/>
+               <p n="54">54. To whom the cheif charge of feeding Chriſt<hi>'s</hi> Sheep was given; was cheif of the Apoſtles, or not? if not, why was the cheif charge giv<g ref="char:EOLhyphen"/>en to him? if he was, why do you deny <hi>Peter</hi>'s Supremacy to whom the cheif charge was com<g ref="char:EOLhyphen"/>mitted.</p>
+            </div>
+            <div type="part">
+               <pb n="36" facs="tcp:37411:28"/>
+               <head>Oral <hi>and</hi> Apoſtolical <hi>TRADITION</hi> Vindicated by the moſt ſo<g ref="char:EOLhyphen"/>lid Texts of Scripture.</head>
+               <p n="55">55. ORal and Apo<g ref="char:EOLhyphen"/>ſtolical Tradi<g ref="char:EOLhyphen"/>tions without writen Books, was the means of planting and conſerv<g ref="char:EOLhyphen"/>ing the Chriſtian Religi<g ref="char:EOLhyphen"/>on, or not? if not; how did the Apoſtles propa<g ref="char:EOLhyphen"/>gate the Faith of Chriſt without written Books? if it was, why do you
+<pb n="37" facs="tcp:37411:28"/>deny Oral and Apoſtoli<g ref="char:EOLhyphen"/>cal Tradition.</p>
+               <p n="56">56. The number of the Canonical Books is mentioned in Scripture, or not? if not, how do you know the Canonical Books, but by Oral Tra<g ref="char:EOLhyphen"/>dition? if they be, in what Book, Chapter or Verſe doth it appear.</p>
+               <p n="57">57. The Chriſtians of the Primitive Age, on pain of Damnation, held nothing for Faith, but what they received from Chriſt and his Apoſtles for ſuch, or not? if not,
+<pb n="38" facs="tcp:37411:29"/>why do you condemn that of Scripture, <hi>Gal.</hi> 1.8. <hi>Although we, or an An<g ref="char:EOLhyphen"/>gel from heauen, preach to you beſides that which we have preached to you, be he Anathema:</hi> And again, 2. <hi>Theſ.</hi> 15. <hi>Therefore Brethren ſtand ye faſt, and hold ye the traditions which ye have learned, whether by word or byour Epistle;</hi> if they did, why do you deny Tradition?</p>
+               <p n="58">58. Apoſtolical Tra<g ref="char:EOLhyphen"/>dition is the Rule by which we may infalliab<g ref="char:EOLhyphen"/>ly be aſſured, both what Doctrine <hi>Chriſt</hi> and his
+<pb n="39" facs="tcp:37411:29"/>Apoſtles taught, and what Books they wrote, or not? if not, how o<g ref="char:EOLhyphen"/>therwiſe can we be aſſu<g ref="char:EOLhyphen"/>red; if it be, Why do you deny Apoſtolical Tradi<g ref="char:EOLhyphen"/>tion?</p>
+            </div>
+            <div type="part">
+               <pb n="40" facs="tcp:37411:30"/>
+               <head>The Bleſſed <hi>EUCHARIST</hi> Vindicated to be the moſt Precious Body and Blood of our Saviour, by the moſt ſollid Texts of Scripture.</head>
+               <p n="59">59. THat natural Body and Blood which <hi>Chriſt</hi> offer<g ref="char:EOLhyphen"/>ed for the remiſſion of Sins on the Croſs, was the ſame that <hi>Chriſt</hi> gave to his Apoſtles at his laſt Supper, or not? if not,
+<pb n="41" facs="tcp:37411:30"/>why do you deny that Scripture of St. <hi>Luke.</hi> 22.19. <hi>This is my Body which ſhall be given for you,</hi> and again, <hi>Mathew,</hi> the 26.28. <hi>This is my Blood of the new Teſtament. which ſhall be ſhed for many, for the Remiſſion of Sins.</hi> If it be, why do you de<g ref="char:EOLhyphen"/>ny the real preſence in the Euchariſt?</p>
+               <p n="60">60. <hi>Chriſt</hi> gave his Bo<g ref="char:EOLhyphen"/>dy and Blood to his A<g ref="char:EOLhyphen"/>poſtles at his laſt Supper, or not? if not, than you make <hi>Chriſt</hi> a lyer, and
+<pb n="42" facs="tcp:37411:31"/>the Scriptures falſe; if he did, why do you deny the real Preſence?</p>
+               <p n="61">61. When <hi>Chriſt</hi> ſaid, this is my Body, did he ſpeak Metaphorically, or not? if not, why do you deny the real Preſence? if he did, prove the Me<g ref="char:EOLhyphen"/>taphor out of Scrip<g ref="char:EOLhyphen"/>ture.</p>
+               <p n="62">62. The bleſſed Body of <hi>Chriſt,</hi> not being con<g ref="char:EOLhyphen"/>tained in the Bread, can be eaten, or not? if not, why do you maintain that you eat the Body that is not contained in
+<pb n="43" facs="tcp:37411:31"/>the Bread; if it can, doth i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not imply a great con<g ref="char:EOLhyphen"/>tradiction, ſeeing you hold the Body is eaten in the Euchariſt, and not eaten in the Euchariſt.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>LITURGIE In an unknown Tongue,</hi> Vindicated by moſt ſollid Texts in Scripture.</head>
+               <p n="63">63. THat which the Apoſtles prac<g ref="char:EOLhyphen"/>tiſed, is lawful for us to p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>actiſe, or not? if not, then you accuſe the A<g ref="char:EOLhyphen"/>poſtles
+<pb n="44" facs="tcp:37411:32"/>of doing that which was not lawful, if it be, why do you de<g ref="char:EOLhyphen"/>ny the lawfulneſs of the Liturgy in an unknown Tongue, ſeeing the A<g ref="char:EOLhyphen"/>poſtles had their publick Liturgies in <hi>Hebrew, Greek, Syriack,</hi> and <hi>Latin,</hi> as is manifeſt in Hiſto<g ref="char:EOLhyphen"/>ry.</p>
+               <p n="64">64. Seeing God hath commanded nothing concerning the Language of the publick Liturgy, we ought to follow the Commands of the Church, or not? if not why do you deny that of
+<pb n="45" facs="tcp:37411:32"/>St. <hi>Mat.</hi> 18.18. <hi>If he will not hear the Church, let him be to the as an Heathen and Publican;</hi> if it be, why then do you deny the Liturgy in an unknown Tongue, being the Church commands the ſame.</p>
+               <p n="65">65. The Man that Prays and gives Thanks in an unknown Tongue, doth well, or not? if not, why do you condemn that of Scripture, 1 <hi>Cor.</hi> 14.17? <hi>Thou indeed giv<g ref="char:EOLhyphen"/>eſt thanks well, but the other is not edified:</hi> If he doth, why do you condemn the
+<pb n="46" facs="tcp:37411:33"/>Liturgy in an unknowu Tongue.</p>
+               <p n="66">66. That which is praiſed in Scripture and proved to be pleaſing to God, is lawful and expe<g ref="char:EOLhyphen"/>dient for us to practiſe, or not? if not, then the Scriptures contain un<g ref="char:EOLhyphen"/>lawful and unneceſſary things; if it be, why do you deny Liturgy in an unknown Tongue? ſee<g ref="char:EOLhyphen"/>ing the Apoſtle ſays, 1 <hi>Cor.</hi> 1.14.2. <hi>He that ſpeaketh with Tongues ſpea<g ref="char:EOLhyphen"/>keth not to Men but to God;</hi> and again, ver. 14. <hi>If I pray with Tongues my Spi<g ref="char:EOLhyphen"/>rit
+<pb n="47" facs="tcp:37411:33"/>prayeth, but my <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>ſtanding is without fruit;</hi> and finally, ver. 30. <hi>To ſpeak with Tongues forbid <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> not.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="48" facs="tcp:37411:34"/>
+               <head>Sacramental <hi>CONFESSION</hi> AND <hi>ABSOLUTION,</hi> Vindicated to be Pious, Good, and Lawful, by the most ſollid Texts of Scripture.</head>
+               <p n="67">67. THe Apoſtles being made Spiritual Judges by <hi>Christ</hi> our Lord, had power from him, to
+<pb n="49" facs="tcp:37411:34"/>bind and looſe from ſin, or not? if not, why do you deny that of St. <hi>Mat.</hi> 18.18? <hi>Whatſoever ye ſhall bind on Earth, ſhall be bound alſo in Heaven, and whatſoever ye ſhall looſe on Earth, ſhall be loo<g ref="char:EOLhyphen"/>ſed alſo in Heaven;</hi> if they had, why do you reject Abſolution.</p>
+               <p n="68">68. The Laity is obli<g ref="char:EOLhyphen"/>ged to diſcloſe their faults to their Judges, or not? if not, how can they abſolve them from what they know not? if they be, why then do you de<g ref="char:EOLhyphen"/>ny confeſſion of Sins.</p>
+               <pb n="50" facs="tcp:37411:35"/>
+               <p n="69">69. <hi>Christ</hi> in ſpeaking theſe Words, (<hi>Joh.</hi> 20. 24, <hi>Whoſe Sins ye ſhall for<g ref="char:EOLhyphen"/>give, they are forgiven<g ref="char:punc">▪</g> and whoſe Sins ye ſhall re<g ref="char:EOLhyphen"/>tain, they are retained</hi>) ſpoke true, or falſe? if falſe, then you condemn the Author of Truth in Lyes; if true, why do you deny the Power of Abſolution?</p>
+               <p n="70">70. That which the Scripture commands is neceſſary, or no? if not, then the Scriptures com<g ref="char:EOLhyphen"/>mand unneceſſary things if it be, why do you de<g ref="char:EOLhyphen"/>ny
+<pb n="51" facs="tcp:37411:35"/>that of St. <hi>Jam.</hi> 5.16? <hi>Confeſs your faults to one another.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>PURGATORY</hi> Vindicated by the most ſol<g ref="char:EOLhyphen"/>lid Texts of Scripture.</head>
+               <p n="71">71. THere is a penal Priſon or place of temporal Puniſhment and Payment after this Life, or not? if not, why then do you falſifie that of Scripture, <hi>Zach.</hi> 4.11. <hi>Thou alſo in the Blood of thy Testament, hast let forth thy Priſoners out of the
+<pb n="52" facs="tcp:37411:36"/>Lake wherein there is no Water:</hi> And again, <hi>Ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> 3. <hi>He ſhall ſit as purging Fire, and ſhall purge the Sons of Levy:</hi> And again, 1 <hi>Cor.</hi> 3.14, 15. <hi>The work of every Man ſhall be mani<g ref="char:EOLhyphen"/>fest, for the day of our Lord will declare it, becauſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> will be revealed in Fire, and the work of every one of what ſort it is, the Fire ſhall try; if any mans work abide he ſhall receive a reward, if any ones works burn, he ſhall ſuffer loſs, but himſelf ſhall be ſaved, yet ſo as by Fire:</hi> And finally <hi>Mat.</hi> 5.27. <hi>Be at agreement with thy Adverſary betimes,
+<pb n="53" facs="tcp:37411:36"/>whiles thou art on the way with him, least thy Adver<g ref="char:EOLhyphen"/>ſary deliver thee to the Judge, and the Judge to the Gaoler, and thou be cast into Priſon,</hi> Amen. <hi>I ſay to thee thou ſhalt not go out from thence till thou repay the last farthing;</hi> if there be, why do you deny Purgatory.</p>
+               <p n="72">72. Thoſe Souls which our Bleſſed Savi<g ref="char:EOLhyphen"/>our and his Apoſtles raiſed from death, they were in Heaven, or Hell, or not? if not, why then do you deny a third place? if they were,
+<pb n="54" facs="tcp:37411:37"/>how could they return to mortality?</p>
+               <p n="74">74. Chriſts deſcenti<g ref="char:EOLhyphen"/>on was into the Hell of the Damned or not? if not, then it was into the third place; if it was, then you Blaſpheme.</p>
+               <p n="74">74. When Chriſt preached to the Souls in priſon, 1 <hi>Pet.</hi> 3.13. it was to the Damned o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not? if not, then it was to the Souls in Purgato<g ref="char:EOLhyphen"/>ry; If it was to the Damned, then you would have Chriſt to preach in vain, ſeeing
+<pb n="55" facs="tcp:37411:37"/>out of Hell there is no redemtion.</p>
+            </div>
+            <div type="part">
+               <head>Mortal <hi>and</hi> Venial <hi>SINS</hi> Vindicated by most ſolid Texts of Scripture.</head>
+               <p n="75">75. ALL kind of ſins robs the Soul of Juſtice, and makes her guilty of Damnation or not? if not, then ſome ſins are only Venial; if they do, why then doth Chriſt make three different
+<pb n="56" facs="tcp:37411:38"/>ſorts of ſins, of which the laſt only renders a man guilty of Demnati<g ref="char:EOLhyphen"/>on, <hi>Mat.</hi> 5.23. <hi>Whoever ſhall be angry with his bro<g ref="char:EOLhyphen"/>ther ſhall be in danger of judgment, whoſoever ſhall ſay to his brother Racha ſhall be in danger of council, and whoever ſhall ſay thou fool ſhal be in danger of hell fire.</hi>
+               </p>
+               <p n="76">76. All Sins are mor<g ref="char:EOLhyphen"/>tal and ſufficient to break Charity betwixt God and Man, or not? if not, then there muſt be ſome venial, and not ſufficient to break Cha<g ref="char:EOLhyphen"/>rity
+<pb n="57" facs="tcp:37411:38"/>betwixt, God and Man; if they be, then the Apoſtles themſelves were not in the Charity of God, ſeeing it is ſaid in St. <hi>Jam.</hi> 3.2. <hi>We all offend in many things.</hi>
+               </p>
+               <p n="77">77. All Idle Words are mortal Sins, or not? if not, then there muſt be ſome venial; if they be, how then can any hope for Salvation, ſee<g ref="char:EOLhyphen"/>ing no man (morally ſpeaking) can avoid idle Words.</p>
+               <p n="78">78. All Sins are unto Death, or not? if not,
+<pb n="58" facs="tcp:37411:39"/>then there are ſome ve<g ref="char:EOLhyphen"/>nial; if there be, then you make Chriſt a Lyar: who ſaid, <hi>There is a Sin unto Death, and a Sin not unto Death, Joh.</hi> 5.16.</p>
+            </div>
+            <div type="part">
+               <head>The Invocation <hi>OF ANGELS</hi> AND <hi>SAINTS,</hi> Vindidated by ſolid Texts of Scripture.</head>
+               <p n="79">79. THe enjoyment of God, An<g ref="char:EOLhyphen"/>gels, Saints, and the Glo<g ref="char:EOLhyphen"/>ry
+<pb n="59" facs="tcp:37411:39"/>of Heaven, rob men of their Knowledg, or not? if it doth, you make our Celeſtial Life to be far inferiour to our Tereſterial in matters of Knowledg; if not, why do you deny that Pro<g ref="char:EOLhyphen"/>phets now in Heaven can know things at a diſt<g ref="char:EOLhyphen"/>ance, as well as they did on Earth? 1. <hi>Kings</hi> 4.6. <hi>Eliſeus by the ſpecial Light of Grace only, ſaw what was done in the King of Syri<g ref="char:EOLhyphen"/>ah</hi>'s <hi>Privy Chamber:</hi> And again, 2. <hi>Kings</hi> 5. <hi>And what paſſed betwixt his ſer<g ref="char:EOLhyphen"/>vant</hi> Geezi <hi>and</hi> Naaman, <hi>when he was abſent.</hi> St.
+<pb n="60" facs="tcp:37411:40"/>
+                  <hi>Peter</hi> likewiſe knew the ſacriligious Act of <hi>Ana<g ref="char:EOLhyphen"/>nias</hi> and <hi>Saphira,</hi> though acted privatly betwixt themſelves.</p>
+               <p n="80">80. The damned Spi<g ref="char:EOLhyphen"/>rits of Hell, know more then the bleſſed Soules in the glory of the Father or not? if not, why do you acknowledg the De<g ref="char:EOLhyphen"/>vils to underſtand our moſt ſecret Thoughts and Prayers, and not the Saints and Angels alſo? if they do, then you at<g ref="char:EOLhyphen"/>tribute more knowledg to them in Perdition, than to the Immaculate
+<pb n="61" facs="tcp:37411:40"/>Saints in the Eternal Bliſs?</p>
+               <p n="81">81. The Angels of God have ever prayed for thoſe on Earth, or not? if not, why do you deny that of <hi>Zach.</hi> 1.12. <hi>The Angel of our Lord, anſwered and ſaid, O Lord of Hoſts, how long will thou not have Mercy on</hi> Jeruſa<g ref="char:EOLhyphen"/>ſalem, <hi>and the Cities of</hi> Juda? if they have, why do you not agree with us, that the Angels pray for us.</p>
+               <p n="12">12. It is Lawful to pray to the Angels, or
+<pb n="62" facs="tcp:37411:41"/>not? if it be, then the invocation of Angels, is not vain; if not, why do you accuſe <hi>Jacob</hi> of an Error, in invocating the Angel to bleſs his Chil<g ref="char:EOLhyphen"/>dren? <hi>Gen.</hi> 48.16. and again, <hi>Job.</hi> 5.1. <hi>Call there<g ref="char:EOLhyphen"/>fore (ſaith Eliſas to Job) and turn thee to ſome of the Saints,</hi> and again <hi>Hoſ.</hi> 12.4. <hi>Jacob prevailed a<g ref="char:EOLhyphen"/>gainſt the Angel, and wept and prayed to him.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="63" facs="tcp:37411:41"/>
+               <head>The worſhiping of <hi>ANGELS</hi> and holy <hi>IMAGES,</hi> Vindicated by the moſt ſolid Text of Scripture.</head>
+               <p n="83">83. WHen St. <hi>John</hi> in the <hi>Apoc.</hi> 22.8. fell down to adore before the feet of the Angel, he knew it to be lawful, or not? if not, then you condemn the moſt wiſe and excel<g ref="char:EOLhyphen"/>ent Prophet, Apoſtle, and Evangeliſt of groſs
+<pb n="64" facs="tcp:37411:42"/>Ignorance, and wilful Idolatry; if he did, why was it lawful to him, and not to us? and again, <hi>Gen.</hi> 19.1. when <hi>Lot</hi> adored the Angels, with his Face bowed towards the Earth; he commit<g ref="char:EOLhyphen"/>ted Idolatry, or not? if not, than the worſhip of Angels is lawful; if he did, than you accuſe him of more than the Scrip<g ref="char:EOLhyphen"/>tures doth?</p>
+               <p n="84">84. All that which is recorded in holy Writ to have been done by the known Saints of God, without Reproof, is law<g ref="char:EOLhyphen"/>ful,
+<pb n="65" facs="tcp:37411:42"/>or not? if not, why did the great Precurſor of Chriſt St. <hi>John</hi> the <hi>Baptiſt,</hi> worſhip the ve<g ref="char:EOLhyphen"/>ry Latchets of our Savi<g ref="char:EOLhyphen"/>our's Shooes? and again, why did <hi>Jacob</hi> worſhip the top of <hi>Joſeph's</hi> Rod? <hi>Heb</hi> 11.21. if it be why do you call the worſhip of Images Idolatry?</p>
+               <p n="85">85. The Holy Vene<g ref="char:EOLhyphen"/>ration and worſhip of I<g ref="char:EOLhyphen"/>mages have profitted the Jews and Chriſtians, or not? if not, how then was the Iſraelites healed of the biting of the Serpents in the Deſart: And a<g ref="char:EOLhyphen"/>gain,
+<pb n="66" facs="tcp:37411:43"/>how then did the Primitive Chriſtians, re<g ref="char:EOLhyphen"/>ceive ſpecial Benefit by venerating the Shadow and Garments of St. <hi>Pe<g ref="char:EOLhyphen"/>ter</hi> and <hi>Paul, Acts</hi> 5.15. and 19.11. if it did then, why not now alſo?</p>
+               <p n="86">86. Is it lawful to bow the Knee to Images, or not? if not, why doth the Apoſtle ſay, <hi>At the Name of Jeſus every Knee ſhall bow, Phil.</hi> 2.8. which Name is nothing but an Image of the hearing; if it be, why do you reject the Veneration of Sacred Images.</p>
+            </div>
+            <div type="part">
+               <pb n="67" facs="tcp:37411:43"/>
+               <head>The Veneration of <hi>RELIQUES,</hi> Vindicated by the moſt ſolid Texts of Scripture.</head>
+               <p n="87">87. THat Honour &amp; Veneration of the Reliques of Saints, which God himſelf hath approved by many fa<g ref="char:EOLhyphen"/>mous Miracles, is good, or not? if not, why doth God ſet his Seal of Mira<g ref="char:EOLhyphen"/>cles to confirm a Lye? if it be, why do yo con<g ref="char:EOLhyphen"/>demn the Veneration of Reliques?</p>
+               <pb n="68" facs="tcp:37411:44"/>
+               <p n="88">88. That Woman which was miraculouſly cured of her bloody Flux by only touching the Hem of Chriſts Garment, was cured either for ve<g ref="char:EOLhyphen"/>nerating the Reliques, or not? if not, but by Faith only; why was not ſhe cured at a diſtance, with<g ref="char:EOLhyphen"/>out touching the Gar<g ref="char:EOLhyphen"/>ment, <hi>Matth.</hi> 19.21, 22. If ſhe was, why do you ſlight the veneration of ſacred Reliques.</p>
+               <p n="89">89. The Virtue of ca<g ref="char:EOLhyphen"/>ſting out Devils, and cu<g ref="char:EOLhyphen"/>ring the Diſeaſed, conſiſt<g ref="char:EOLhyphen"/>ed
+<pb n="69" facs="tcp:37411:44"/>in the Napkins and Handkerchiefs, that had but touched the Body of St. <hi>Paul, Acts</hi> 29.12. or not? if not, why did they not cure them without touching the Apoſtle? if it did, why do you deny the veneration of Re<g ref="char:EOLhyphen"/>liques?</p>
+               <p n="90">90. The Bones of Dead Saints have reſtored Men to Life, or not? if not, why do you deny the Miracle of <hi>Eleſeus</hi>'s Bones, <hi>Kings</hi> 4.14, 21. if they did, then the Re<g ref="char:EOLhyphen"/>liques and Bones of Saints are worthy of veneration.</p>
+            </div>
+            <div type="part">
+               <pb n="70" facs="tcp:37411:45"/>
+               <head>
+                  <hi>FREE-WILL,</hi> Vindicated by the moſt ſolid Texts of Scripture.</head>
+               <p n="91">91. GOd left Man to his own free-will, or not? if not, why do you falſifie the Scri<g ref="char:EOLhyphen"/>pture, <hi>Eccleſ.</hi> 15. <hi>God from the beginning made Man, and left him in the hand of his own Council,</hi> if he did, why do you deny Free-will.</p>
+               <p n="92">92. The choice of good and evil is left in Mans Free-wll, or not? if not,
+<pb n="71" facs="tcp:37411:45"/>why do you deny that of <hi>Joſhua</hi> 24. <hi>Choice is given you, chooſe this day that which pleaſeth you;</hi> and a<g ref="char:EOLhyphen"/>gain, <hi>Acts</hi> 7.15. <hi>You all<g ref="char:EOLhyphen"/>ways reſiſt the Holy Ghoſt:</hi> and again, <hi>John</hi> 1.12. <hi>But as many as received him,</hi> (Chriſt) <hi>he gave them power to be made the Sons of God.</hi> If it be, why do you deny Free-will?</p>
+               <p n="93">93. Man hath power to keep his Virgin, or not? if not, why doth the Scriptures ſay, 1 <hi>Cor.</hi> 7.37. <hi>He that hath deter<g ref="char:EOLhyphen"/>mined in his heart, not ha<g ref="char:EOLhyphen"/>ving neceſſity, but having
+<pb n="72" facs="tcp:37411:46"/>power of his own will to keep his Virgin, doth well.</hi> If he hath, why do you deny-Free-will?</p>
+               <p n="94">94. All that God com<g ref="char:EOLhyphen"/>mands is in Mans Free-power, or not? if not, why do you condemn God with Tyranny, in commanding that which is not in Mans free-pow<g ref="char:EOLhyphen"/>er to do? as if I ſhould threaten my Servant with a horrible Death, for not bringing me the Man of the Moon; if it be, why do you deny Free-will.</p>
+            </div>
+            <div type="part">
+               <pb n="73" facs="tcp:37411:46"/>
+               <head>
+                  <hi>FAITH</hi> without <hi>WORKS,</hi> Vindicated to be of no ef<g ref="char:EOLhyphen"/>fect, by the most ſold Texts of Holy Writ.</head>
+               <p n="96">96. FAith Working by Charity ju<g ref="char:EOLhyphen"/>ſtifies, or not? if not, why do you condemn that of <hi>Gall.</hi> 5.6. <hi>For in</hi> Chriſt Jeſus, <hi>neither Cir<g ref="char:EOLhyphen"/>cumciſion availeth nought, nor prepuce, but Faith work<g ref="char:EOLhyphen"/>ing by Charity:</hi> If it doth, then your juſtifying Faith flies without Wings.</p>
+               <pb n="74" facs="tcp:37411:47"/>
+               <p n="97">97. A Man ſaying Lord, Lord, may be ſa<g ref="char:EOLhyphen"/>ved, or not? if not, then where is your Juſtifying Faith? if he may, once more you confound the Scriptures, <hi>Mat.</hi> 7.21. <hi>Not every one that ſays Lord, Lord, but he th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> doth the will of my Father ſhall enter into the King<g ref="char:EOLhyphen"/>dom of Heaven.</hi>
+               </p>
+               <p n="98">98 You hope to be ſa<g ref="char:EOLhyphen"/>ved by believing in God only without Works, or not? if not, then your juſtifying Faith is vain? if you do, why, but the
+<pb n="75" facs="tcp:37411:47"/>damned Spirits may ex<g ref="char:EOLhyphen"/>pect Salvation, ſeeing they believe in God, and tremble alſo.</p>
+            </div>
+            <div type="part">
+               <head>The <hi>MERIT</hi> Of <hi>WORKS,</hi> Vindicated by the most ſo-Texts of Scripture.</head>
+               <p n="92">92. EVery Man will be rewarded at the laſt Day according to his Works, or not? if not, then you accuſe God of Injuſtice, in not
+<pb n="76" facs="tcp:37411:48"/>to each Man ac<g ref="char:EOLhyphen"/>cording to his Works? if he will, why but good Works will be Meritori<g ref="char:EOLhyphen"/>ous and receive a good Reward?</p>
+               <p n="100">100. Chriſt encoura<g ref="char:EOLhyphen"/>ged his Apoſtles to ſuffer Afflictions patiently in expectation of a Reward, or not? if not, why did he ſay in St. <hi>Mat.</hi> 15.12. <hi>Bleſſed are ye when they ſhall revile and perſecute you, for my ſake, rejoyce and be glad, for very great is your Reward in Heaven.</hi> If he did, why was not there Perſecutions Meri<g ref="char:EOLhyphen"/>torious,
+<pb n="77" facs="tcp:37411:48"/>and conſequent<g ref="char:EOLhyphen"/>ly our good Works?</p>
+               <p n="101">101. That Crown of Juſtice which <hi>Paul</hi> ſaid was laid up for himſelf, was the Reward of his good Fight, or no? if not, why do you deny that of 2. <hi>Tim.</hi> 4.7, 8. <hi>I have fought a good Fight, there is a Crown of justice laid up for me, which our Lord will render to me at that Day a just Judge, &amp;c.</hi> if it was, how can you de<g ref="char:EOLhyphen"/>ny the Merit of good Works?</p>
+               <p n="102">102. A Cup of cold water given in the Name
+<pb n="78" facs="tcp:37411:49"/>of a Diſciple, it's Merito<g ref="char:EOLhyphen"/>rious, or not? if not, why is it ſaid in St. <hi>Mat.</hi> 10.48. <hi>Whoſoever ſhall give to one of theſe little Ones a Cup of cold water only in the Name of a Diſ<g ref="char:EOLhyphen"/>ciple,</hi> Amen: <hi>I ſay unto you he ſhall not looſe his re<g ref="char:EOLhyphen"/>ward.</hi> If it be, why do you arrogantly deny the Merit of good Works?</p>
+            </div>
+            <div type="part">
+               <pb n="79" facs="tcp:37411:49"/>
+               <head>Holy <hi>and</hi> Religious <hi>VOWS</hi> Vindicated by the most ſolid Texts of holy Writ.</head>
+               <p n="103">103. THe Vows which are taught us in the Holy Scripture are lawful, or not? if not, why do you condemn <hi>Iſa.</hi> 19.21. <hi>They ſhall Vow Vows unto our Lord and pay them.</hi> and <hi>Pſal.</hi> 75.2. <hi>Vow ye and Render ye to the Lord your God;</hi> and again <hi>Pſal.</hi> David <hi>Vowed a Vow to the God of</hi> Jacob: Hear <hi>Da<g ref="char:EOLhyphen"/>vid</hi>
+                  <pb n="80" facs="tcp:37411:50"/>voued lawfully, or not? if not, then ye convince the Prophet of the moſt High in a wil<g ref="char:EOLhyphen"/>ful Error; if he did, why was a Vow lawful to him and not to us?</p>
+               <p n="104">104. The greateſt perfection of a Chriſtian Life conſiſts in Evange<g ref="char:EOLhyphen"/>lical Poverty, or not? if not, why did our Sa<g ref="char:EOLhyphen"/>viour in St. <hi>Mat.</hi> 19.21. <hi>Say unto the young Man, if thou will be perfect, go and ſel all that thou hast and give to the Poor, and fol<g ref="char:EOLhyphen"/>low me, and thou ſhalt have treaſure in Heeven.</hi> if it
+<pb n="81" facs="tcp:37411:50"/>be, why do you reject the Vow of poverty as a human Invention?</p>
+               <p n="105">105. It was a Virtue in Eunuchs, who gelded themſelves for the King<g ref="char:EOLhyphen"/>dom of Heaven, or not? if not, you condemn that of St. <hi>Mat.</hi> 19.12. <hi>There be Eunuchs who have geld<g ref="char:EOLhyphen"/>ed themſelves for the King<g ref="char:EOLhyphen"/>dom of Heaven,</hi> which pious Action our Savi<g ref="char:EOLhyphen"/>our himſelf did not re<g ref="char:EOLhyphen"/>prove: We yet inſiſt, he who reſolves in his heart to keep his Virgin doth well, or not? if not, you deny that in
+<pb n="82" facs="tcp:37411:51"/>the 1. <hi>Cor.</hi> 7. <hi>He that hath reſolved in his heart</hi> &amp;c. <hi>to keep his Virgin doth well.</hi> And if he doth, why do you condemn the holy Vow of Chaſti<g ref="char:EOLhyphen"/>ty?</p>
+               <p n="106">106. We ought to obey our Prelates and Superiors or not? if not, then you deny that of. <hi>Heb.</hi> 13.17. <hi>Obey your Prelates and be ſubject to them:</hi> If we ought, why do you reject the Vow of Obedience as a Popiſh Fiction: And again in St. <hi>Luke</hi> 2.51. our Saviour in obedience
+<pb n="83" facs="tcp:37411:51"/>to the Bleſſed Virgin and St. <hi>Joſeph,</hi> gave us an Example of Obedi<g ref="char:EOLhyphen"/>ence, or not? if not, why did he ſubject himſelf unto them by a meer volentary ſubjection? if he did, then the Vow of Obedience is evident to be a Pious Action, by the Example of Chriſt himſelf?</p>
+            </div>
+            <div type="part">
+               <pb n="84" facs="tcp:37411:52"/>
+               <head>The poſſibility of keeping <hi>THE COMMANDEMENTS</hi> Vindicated by most ſolid Texts of Holy Scripture.</head>
+               <p n="107">107. A Man being aſſiiſted by the ſpecial Grace of God, can keep the Comman<g ref="char:EOLhyphen"/>dements of God, or not? if not, why do you make God a Tyrant, in com<g ref="char:EOLhyphen"/>manding us that which he himſelf cannot enable us to perform? if he can, why do you deny the po<g ref="char:EOLhyphen"/>ſſibility of keeping the Commandements.</p>
+               <pb n="85" facs="tcp:37411:52"/>
+               <p n="108">108. It is impoſſible with man to keep the Commandements, or not? if not, why did <hi>John</hi> ſay, he who ſaith he knoweth God and keepeth not his Com<g ref="char:EOLhyphen"/>mandements is a Lyar, and the Truth is not in him; if it be, why do you falſly accuſe God of com<g ref="char:EOLhyphen"/>manding impoſſibilities; we inſiſt further, hearers of the Law only are juſti<g ref="char:EOLhyphen"/>fy'd, or not? if not, then the fulfiling of the Law is neceſſary to our Juſtification; if they be, then you falſifie that of <hi>Rom.</hi> 2 13. <hi>Not hearers
+<pb n="86" facs="tcp:37411:53"/>of the Law are just with God, but doers of the Law are justiſyed.</hi>
+               </p>
+               <p n="109">109. God according to his promiſe enabled Men by his Holy Spirit, to keep his Commande<g ref="char:EOLhyphen"/>ments, or not? if not, why do you deny that promiſe made in <hi>Ezek.</hi> 36.27. <hi>I will put my Spi<g ref="char:EOLhyphen"/>rit in the midle of you, and I will make that you walk in my precepts, and keep my judgments, and do them.</hi> Again <hi>Ezek.</hi> 37.24. <hi>They ſhall be my People,</hi> &amp;c. <hi>They ſhall walk in my Judgments, and keeo my Commande<g ref="char:EOLhyphen"/>ments.</hi>
+                  <pb n="87" facs="tcp:37411:53"/>If he did, why do you deny in Man the po<g ref="char:EOLhyphen"/>ſſibility of keeping the Commandements?</p>
+               <p n="110">110. It is evident in Holy Writ, that ſome keep the Commande<g ref="char:EOLhyphen"/>ments, <hi>de facto,</hi> or not? if not, why do you belye that of St. 1.6. <hi>Zacbaria</hi> and <hi>Elizabeth were both juſt before God, walking in all the Commandements, Juſtifications without blame:</hi> If it be, why do you deny poſſibility of keeping the commande<g ref="char:EOLhyphen"/>ments?</p>
+            </div>
+            <div type="part">
+               <pb n="88" facs="tcp:37411:54"/>
+               <head>The <hi>IFSTITUTION</hi> of the ſeaven <hi>SACRAMENT in Chriſt's Church,</hi> Vindicated by the moſt ſolid Texts of holy Scripture.</head>
+               <p n="111">111. CHriſt for the Sanctification of Mankind, inſtituted ſeven Viſible Signes of Inviſible Graces, or not? if he did, then there is ſe<g ref="char:EOLhyphen"/>ven Sacraments; if not, then let our learned Ad<g ref="char:EOLhyphen"/>verſaries ſatisfy us to the following Propoſitions. <hi>viz. Baptiſme</hi> is a Sacra<g ref="char:EOLhyphen"/>ment,
+<pb n="89" facs="tcp:37411:54"/>or not? if it be, then we agree; if not, why then hath it the Vi<g ref="char:EOLhyphen"/>ſible Signes (to witt) the Words and Water of an Inviſible Grace, ac<g ref="char:EOLhyphen"/>cording to St. <hi>John</hi> 3.5 <hi>
+                     <g ref="char:V">Ʋ</g>nleſs a Man be born of the Water and Spirit, he cannot enter into the King<g ref="char:EOLunhyphen"/>dom of God</hi> and again <hi>Gal.</hi> 3.27. <hi>As many of you as are baptized in Chriſt have-put on Chriſt.</hi>
+               </p>
+               <p n="112">112. <hi>Confirmation</hi> is a Sacrament, or not? if it be, then we agree, if not why hath it the Vi<g ref="char:EOLhyphen"/>ſible Signe (to witt) the Oyl and Balm of an In<g ref="char:EOLhyphen"/>viſible
+<pb n="90" facs="tcp:37411:55"/>Grace? according to the <hi>Acts.</hi> 19.5.6. <hi>Hearing theſe things they,</hi> &amp;c. <hi>and when Paul had impoſed his hands upon them, the Holy Ghoſt came upon them:</hi> Again <hi>Acts.</hi> 8.14.15.16. St. <hi>Peter</hi> and St. <hi>John did impoſe their hands upon them, and they received the Holy Ghoſt.</hi>
+               </p>
+               <p n="113">113. The <hi>Euchariſt</hi> is a Sacrament, or not? if it be, the Controverſy is ended; if not why hath it the Viſible Signes? (to witt) the accidents of Bread and Wine, of an In viſible Grace, accord<g ref="char:EOLhyphen"/>ing
+<pb n="91" facs="tcp:37411:55"/>to that of <hi>Mat.</hi> 26 27. <hi>This is my Blood of the New Testament, which hall be ſhed for many, to the Remiſſion of Sins.</hi> And St. <hi>John</hi> 6.52. <hi>
+                     <g ref="char:V">Ʋ</g>nleſs ye eat the Fleſh of the Son of man, and drink his Bood, ye have no Life in you.</hi>
+               </p>
+               <p>
+                  <hi>Pennance</hi> is a Sacra<g ref="char:EOLhyphen"/>ment, or not? if it be then we agree; if not, why hath it the Viſibe Signe? (to wit) the Penitents Confeſſion, and the Prieſts Abſolution of an Inviſible Grace, which is the Remiſſion of Sins ac<g ref="char:EOLhyphen"/>cording to St. <hi>John</hi> 20.23.
+<pb n="92" facs="tcp:37411:56"/>
+                  <hi>Whoſe Sins ye ſhall <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>tain, they are retained, a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> whoſe Sins you ſhall forgi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> they are fotven.</hi>
+               </p>
+               <p n="115">115. <hi>Extream <g ref="char:V">Ʋ</g>unc<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>on</hi> is a Sacrament, or no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> if it be, then there a<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> more then two Sacra<g ref="char:EOLunhyphen"/>ments; if not, why then hath it the Viſible Signe (to witt) the Prieſts Pra<g ref="char:EOLhyphen"/>yer, and the anointing with Oyl of an inviſible Grace; whereof St. <hi>J<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> ſpeaks in the 5.13, 14, 15. <hi>Is any Man ſick among you<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> let him bring in the Prieſts of the Church, and let them pray over him, anointin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> him with Oyl in the Name
+<pb n="93" facs="tcp:37411:56"/>of <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>cur Lord, and the Pray<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> of Faith ſhall ſhall ſave <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Sick Man, and our Lord <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ll lift him up, and if he <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> in Sins, his Sins ſhall be <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>given him.</hi>
+               </p>
+               <p n="117">117. <hi>Holy Order is</hi> a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>crament, or not? if it be, then it is no vacuant <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rimony; if not, why <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>en hath it the Viſible <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>igne (to witt) the words of the Biſhop, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he things given to him <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at it ordain'd; of an <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>viſible Grace according 1 <hi>Tim.</hi> 4.14. <hi>Neglect <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or the Grace which is in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> very Prophecy with the
+<pb n="94" facs="tcp:37411:57"/>impoſition of the hands of the Prieſthood.</hi>
+               </p>
+               <p n="117">117. <hi>Matrimony</hi> is a-Sacrament, or not? if it be, then it is not a naked Ceremony of the <hi>Popſh</hi> Church; if not, why then hath it a Viſible Signe? (to witt) the mutual conſent of both Parties of an Inviſible Grace, and Supernatural Conjunction made by Almighty God; St. <hi>Mat.</hi> 19.6. <hi>That therefore which God hath joined, let not man ſeperate.</hi> And a<g ref="char:EOLhyphen"/>gain <hi>Epheſ.</hi> 5.31.3<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>There ſhall be two in one Fleſh, this is agreat Sa<g ref="char:EOLhyphen"/>crament,
+<pb n="95" facs="tcp:37411:57"/>but I ſay in Chriſt and the Church.</hi>
+               </p>
+               <p n="118">118. A Viſible Signe of an Inviſible Grace, divinely inſtituted by Chriſt is the true Defi<g ref="char:EOLhyphen"/>nition of a Sacrament; or not? if not, then you deny the definition which your ſelves attri<g ref="char:EOLhyphen"/>butes to a Sacrament; if it be, how can you deny the above mentioned ſeven Viſible Signes of Inviſible Graces, divine<g ref="char:EOLhyphen"/>ly inſtituted by Chriſt to be Sacraments.</p>
+               <p n="119">119. <hi>Baptiſme</hi> and the <hi>Lord</hi>'s <hi>Supper</hi> is more e<g ref="char:EOLhyphen"/>vidently ſaid in Scripture
+<pb n="96" facs="tcp:37411:58"/>then any of the other 5 to be Sacraments, or not? if not, why then do you hould thoſe two only and none of the other five to be Sacrament? if they be, then ſhews us in what Book, Chapter, or Verſe is <hi>Baptiſme</hi> and the <hi>Lord</hi>'s <hi>Supper</hi> ſaid to be <hi>Sacra<g ref="char:EOLhyphen"/>ments,</hi> and none of the o<g ref="char:EOLhyphen"/>ther five which you ſo obſtinately deny.</p>
+            </div>
+         </div>
+         <div type="appendix">
+            <pb n="97" facs="tcp:37411:58"/>
+            <head>THE APENDIX.</head>
+            <p n="120">120. THat the Se<g ref="char:EOLhyphen"/>ctaries of our Times, have no lawful or continued Succeſſion, which we prove thus.</p>
+            <p>Your Church hath it's Succeſſion from
+<pb n="98" facs="tcp:37411:59"/>the undernamed Sects, or not? if not, then you cannot have your Succeſſion from any o<g ref="char:EOLhyphen"/>ther viſible in the World, ſince <hi>Gregory</hi> the Great; about whoſs Time you hold the <hi>Romiſh</hi> Church fell from her Purity; if ſhe hath, why do you not profeſs the ſam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Articles with the un<g ref="char:EOLhyphen"/>dernamed Sects, <hi>viz.</hi> with the <hi>Waldenſes,</hi>
+               <pb n="99" facs="tcp:37411:59"/>that Lay-Men and Women may Conſe<g ref="char:EOLhyphen"/>crate and Preach, that Clergy Men ought to have no Po<g ref="char:EOLhyphen"/>ſſeſſions or Porperties; and that Oaths was unlawful in all caſes, <hi>&amp;c.</hi> which abſurdities were condemned by the third <hi>Lateran</hi> Council, in the twelveth Century; with Abbot <hi>Joachim,</hi> who denyed the
+<pb n="100" facs="tcp:37411:60"/>Father, Son, and Holy Ghoſt, to be one high<g ref="char:EOLhyphen"/>eſt Thing, Eſſence, or Nature, though three diſtinct Perſon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Can.</hi> 3, which Hereſy was condemned by the fourth <hi>Lateran</hi> Council, in the thir<g ref="char:EOLhyphen"/>teenth Century; wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Bergardes</hi> and <hi>Beg<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>nes,</hi> who held Car<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>a Luſt to be done out of Temptation to be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o Sin, <hi>&amp;c.</hi> wich adſurdi<g ref="char:EOLhyphen"/>ty
+<pb n="101" facs="tcp:37411:60"/>was condemned by the Council of <hi>Vienna;</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the fourteenth Cen<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ry with <hi>John Huſſe.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Wicklif, Hierome</hi> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Prague;</hi> that all Prieſts and Majiſtrates <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ll from their Dignity by any Mortal Sin, and ought no longer <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be obeyed; that God muſt obey the Devil, and that tem<g ref="char:EOLhyphen"/>poral Lords might t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ke away Church
+<pb n="102" facs="tcp:37411:61"/>Liveings at their plea<g ref="char:EOLhyphen"/>ſure, <hi>&amp;c.</hi> which ob<g ref="char:EOLhyphen"/>ſurdities, were totally condemned by the the Council of <hi>Conſtance,</hi> in the fifteenth Cen<g ref="char:EOLhyphen"/>tury; your Church had her Succeſſion from the above men<g ref="char:EOLhyphen"/>tioned Sects, or not? if you have then you muſt maintain the ſame, moſt rediculous Tenets, with the a<g ref="char:EOLhyphen"/>bove mentioned Secta<g ref="char:EOLhyphen"/>ries;
+<pb n="103" facs="tcp:37411:61"/>if not, then you muſt have no Succeſſi<g ref="char:EOLhyphen"/>on unleſs it be from the Antient <hi>Roman</hi> Catho<g ref="char:EOLhyphen"/>lique Church? (to the contrary)</p>
+            <p n="121">121. <hi>Luther</hi> and <hi>Calvin,</hi> had their Miſſion from the <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Church, or not? if not, then they had no Miſſion, if they had, the <hi>Roman</hi> Church had the Spirit of God, when
+<pb n="104" facs="tcp:37411:62"/>ſhe gave them the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> miſſion, or not? if no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> how could ſhe give them lawful Miſſion not haveing the Spir<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of God? if ſhe had how could ſhe fall into Errors, and why did they depart from the Spirit of God? W<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> inſiſt further, they ha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> their Miſſion from God, or not? if no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> then it was from the Devil; if they ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="105" facs="tcp:37411:62"/>why did they not confirm their Doc<g ref="char:EOLhyphen"/>trine with Miracles? <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s God did the un<g ref="char:EOLhyphen"/>writen Law, <hi>Moſes</hi> the writen Law, and Chriſt Jeſus the new Law.</p>
+            <p n="122">122. <hi>Luther</hi> and <hi>Calvin</hi>'s Doctrine, was manifeſted to be true by Miracles, or not? if it was, by what Miracles did they ever confirm that
+<pb n="106" facs="tcp:37411:63"/>which they preached? if not, then ſeeing you cannot alledg any Texts of ſacred Writ to vindicate their Tenets, you muſt of neceſſity run to your private Spirit for a<g ref="char:EOLhyphen"/>refuge (to the Con<g ref="char:EOLhyphen"/>trary)</p>
+            <p n="123">123. The Apoſtles had the private Spirit, or not? if not, then it is not Apoſtolical, but
+<pb n="107" facs="tcp:37411:63"/>rather Diabolical; if they had, why then did they call a Coun<g ref="char:EOLhyphen"/>cil <hi>Acts</hi> the 15.</p>
+            <p n="124">124. Your privat Spirit is of God, or not? if not then it is of the Devil; if it be of God, why then are there ſo many diſa<g ref="char:EOLhyphen"/>greeing Sects amongſt you.</p>
+            <p n="125">125. A Man en<g ref="char:EOLhyphen"/>dowed with your private Spirt, can in<g ref="char:EOLhyphen"/>terpret
+<pb n="108" facs="tcp:37411:64"/>Scriptures, or not? if not, why then doth rude and unlit<g ref="char:EOLhyphen"/>arated Mechanicks, the meaneſt of Pea<g ref="char:EOLhyphen"/>ſants, and in fine, all the Plebeian Sort pre<g ref="char:EOLhyphen"/>ſume to interpret the moſt difficult parts of Holy Scripture, and diſtinguiſh the Ca<g ref="char:EOLhyphen"/>nonical Books from <hi>Apocr.</hi> if they can, what need have you of Preachers, or Tea<g ref="char:EOLhyphen"/>chers,
+<pb n="109" facs="tcp:37411:64"/>ſeeing no Man will believe any thing, but what his private Spirit ſuggeſts unto him.</p>
+            <gap reason="missing" extent="1 page">
+               <desc>〈1 page missing〉</desc>
+            </gap>
+            <pb n="111" facs="tcp:37411:65"/>
+            <p>
+               <hi>forged by thoſe w<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> never could learn <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſpeak or write Truth; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> if he doth, we Faithfu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ly promiſe by the Gra<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of God, to paint, and al<g ref="char:EOLhyphen"/>ſo rip up all the Sores of</hi> Proteſtancy; <hi>not by I<g ref="char:EOLhyphen"/>maginary Fancies, or ra<g ref="char:EOLhyphen"/>ther wilful Falcities, as they obtrude againſt u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> but even from</hi> Proteſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ant <hi>approved</hi> Hiſtory graphers, <hi>and the pre<g ref="char:EOLhyphen"/>ſent
+<pb n="112" facs="tcp:37411:65"/>times, which all the Impartial and clear ſighted Eyes are wit<g ref="char:EOLhyphen"/>neſſes of.</hi>
+            </p>
+            <p>
+               <hi>Wee of the Society of</hi> Jeſus, <hi>in obedience to the command of our ſu<g ref="char:EOLhyphen"/>periors, have peruſed this Book, and finding nothing in it contradict<g ref="char:EOLhyphen"/>ing the Catholique</hi> Church, <hi>are in
+<pb n="113" facs="tcp:37411:66"/>hopes, that it may be the Inſtrument of great good,</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37411:66"/>
+         </div>
+      </body>
+   </text>
+</TEI>
